@@ -3,10 +3,13 @@ The list of varius exercises and projects from a courses. This place shows what 
 
 <h4>web-coders.pl</h4>
 <ul>
-  <li><a href="https://github.com/EmiliaPrzybylek/Restaurant_Website">Restaurant Website</li>
+  <li><a href="https://github.com/EmiliaPrzybylek/Restaurant_Website">Restaurant Website</li></a>
 </ul>
 
 <h4>Bootstrap</h4>
 <ul>
-  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject1">Bootstrap project 1</li>
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject1">Bootstrap project 1</li></a>
+</ul>
+<ul>
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject2">Bootstrap project 2</li></a> (Partially self-made project, still working on it)
 </ul>
