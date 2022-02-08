@@ -11,5 +11,5 @@ The list of varius exercises and projects from a courses. This place shows what 
   <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject1">Bootstrap project 1</li></a>
 </ul>
 <ul>
-  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject2">Bootstrap project 2</li></a> (Partially self-made project, still working on it)
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject2">Bootstrap project 2</li></a> (Partially self-made project)
 </ul>
