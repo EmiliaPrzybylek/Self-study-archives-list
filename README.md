@@ -9,6 +9,7 @@ The list of varius exercises and projects from a courses. This place shows what 
 <h4>JavaScript</h4>
 <ul>
   <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-JavaScriptTipCalculator.git">BillsCalculator</li></a>
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-JavaScript-FormValidation">FormValidation</li></a>
 </ul>
 
 
