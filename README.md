@@ -3,19 +3,20 @@ The list of varius exercises and projects from a courses. This place shows what 
 
 <h4>web-coders.pl</h4>
 <ul>
-  <li><a href="https://github.com/EmiliaPrzybylek/Restaurant_Website">Restaurant Website</li></a>
+  <li><a href="https://github.com/EmiliaPrzybylek/Restaurant_Website">Restaurant Website</a></li>
 </ul>
 
 <h4>JavaScript</h4>
 <ul>
-  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-JavaScriptTipCalculator.git">BillsCalculator</li></a>
-  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-JavaScript-FormValidation">FormValidation</li></a>
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-JavaScriptTipCalculator.git">BillsCalculator</a></li>
+  <li><a href="https://github.com/EmiliaPrzybylek/Self-study--drum-kit-30-JS)">Drum kit in JavaScript</a> (SCSS made by me)</li>
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-JavaScript-FormValidation">FormValidation</a></li>
 </ul>
 
 
 <h4>Bootstrap</h4>
 <ul>
-  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject1">Bootstrap project 1</li></a>
+  <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject1">Bootstrap project 1</a></li>
   <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject2">Bootstrap project 2</a> (Partially self-made project)</li>
   <li><a href="https://github.com/EmiliaPrzybylek/SelfStudy-BootstrapProject3">Bootstrap project 3</a> (Partially self-made project)</li>
 </ul>
